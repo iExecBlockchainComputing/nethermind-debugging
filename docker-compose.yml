@@ -1,0 +1,31 @@
+version: '3.4'
+
+volumes:
+  nethermind-fullnode-db:
+    external: true
+
+services:
+  nethermind-fullnode:
+    image: sidechain-node:0.1-nethermind-1.14.2
+    build:
+      context: .
+    container_name: nethermind-fullnode
+    restart: unless-stopped
+    #command: --log DEBUG
+    ports:
+      # RPC/WS
+      - 8545:8545
+      # SYNC
+      - 30303:30303
+    environment:
+      # EthStats
+      - NETHERMIND_ETHSTATSCONFIG_ENABLED=false
+      - NETHERMIND_ETHSTATSCONFIG_NAME=nethermind-fullnode
+      - NETHERMIND_ETHSTATSCONFIG_SERVER=${NETHERMIND_ETHSTATSCONFIG_SERVER}
+      - NETHERMIND_ETHSTATSCONFIG_SECRET=${NETHERMIND_ETHSTATSCONFIG_SECRET}
+      # Keystore
+      #- NETHERMIND_KEYSTORECONFIG_KEYSTOREDIRECTORY=
+      #- NETHERMIND_KEYSTORECONFIG_PASSWORDS=
+      #- NETHERMIND_KEYSTORECONFIG_UNLOCKACCOUNTS
+    volumes:
+      - nethermind-fullnode-db:/nethermind/nethermind_db/iexec
