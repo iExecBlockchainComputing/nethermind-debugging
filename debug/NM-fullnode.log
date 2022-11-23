@@ -1,0 +1,80 @@
+
+[...]
+
+2022-11-08 02:49:09.6929|Downloaded 13128057 / 19240468 | current  2923.53bps | total   323.30bps 
+2022-11-08 02:49:09.7831|Processed    4451758 |      988ms of   1,000ms, mgasps    0.00 total   13.54, tps    0.00 total   46.21, bps 1151.25 total 1287.97, recv queue 8674451, proc queue 1991 
+2022-11-08 02:49:10.4740|Discovered new block 19240469 02:49:10 (0xe04180...3fc014), tx count: 0 miner 0x63b4efae8b5d26662ea5700cf2b057e382d4805a, sent by [Peer|eth66|19240469|     3.10.64.47:52436], with AuRa step 333575150 
+2022-11-08 02:49:10.6937|Downloaded 13131267 / 19240469 | current  3207.38bps | total   323.37bps 
+2022-11-08 02:49:10.7837|Processed    4453064 |      988ms of   1,001ms, mgasps    0.00 total   13.53, tps    0.00 total   46.19, bps 1322.45 total 1287.98, recv queue 8676340, proc queue 2000 
+2022-11-08 02:49:11.7019|Downloaded 13134844 / 19240469 | current  3548.08bps | total   323.45bps 
+2022-11-08 02:49:11.7843|Processed    4454390 |      988ms of   1,001ms, mgasps    0.00 total   13.53, tps    0.00 total   46.18, bps 1342.54 total 1288.00, recv queue 8678745, proc queue 2000 
+2022-11-08 02:49:12.7013|Downloaded 13138320 / 19240469 | current  3478.24bps | total   323.52bps 
+2022-11-08 02:49:12.7845|Processed    4455775 |      986ms of   1,000ms, mgasps    0.00 total   13.53, tps    0.00 total   46.17, bps 1405.14 total 1288.03, recv queue 8680645, proc queue 2000 
+2022-11-08 02:49:13.7013|Downloaded 13141538 / 19240469 | current  3218.00bps | total   323.60bps 
+2022-11-08 02:49:13.7848|Processed    4457079 |      987ms of   1,000ms, mgasps    0.00 total   13.52, tps    0.00 total   46.15, bps 1321.07 total 1288.04, recv queue 8682850, proc queue 2000 
+2022-11-08 02:49:14.7054|Downloaded 13144851 / 19240469 | current  3299.73bps | total   323.67bps 
+2022-11-08 02:49:14.7855|Processed    4458462 |      986ms of   1,001ms, mgasps    0.00 total   13.52, tps    0.00 total   46.14, bps 1402.47 total 1288.07, recv queue 8684601, proc queue 2000 
+2022-11-08 02:49:14.8539|Processed block 4458548 (0xe33ed5...f820c1) is not valid 
+2022-11-08 02:49:14.8539|  hash 0xe33ed5b6b10fd3865391d96677fe3961991dfe7b1e74b6fd27761bfa48f820c1 != stated hash 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c 
+2022-11-08 02:49:14.8539|  gas used 491486 != stated gas used 495686 (-4200 difference) 
+2022-11-08 02:49:14.8539|  receipts root 0x097024a815877f9318b47941108cc2ac7001410c8428280607748a035473f040 != stated receipts root 0x3648ac6cc05a0f719f027165393c102fe9dc47cd2c183233ad44d83b05acd5aa 
+2022-11-08 02:49:14.8539|Processed block is not valid 4458548 (0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c) 
+2022-11-08 02:49:14.8539|Suggested block TD: 1517165266470616344397701929215695295328003662, Suggested block IsPostMerge False, Block TD: 1517165266470616344397701929215695295328003662, Block IsPostMerge False 
+2022-11-08 02:49:14.8624|Processed block 4458548 (0xe33ed5...f820c1) is not valid 
+2022-11-08 02:49:14.8624|  hash 0xe33ed5b6b10fd3865391d96677fe3961991dfe7b1e74b6fd27761bfa48f820c1 != stated hash 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c 
+2022-11-08 02:49:14.8624|  gas used 491486 != stated gas used 495686 (-4200 difference) 
+2022-11-08 02:49:14.8624|  receipts root 0x097024a815877f9318b47941108cc2ac7001410c8428280607748a035473f040 != stated receipts root 0x3648ac6cc05a0f719f027165393c102fe9dc47cd2c183233ad44d83b05acd5aa 
+2022-11-08 02:49:14.8624|Processed block is not valid 4458548 (0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c) 
+2022-11-08 02:49:14.8624|Suggested block TD: 1517165266470616344397701929215695295328003662, Suggested block IsPostMerge False, Block TD: 1517165266470616344397701929215695295328003662, Block IsPostMerge False 
+2022-11-08 02:49:14.8776|Created a Receipts trace of block 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c in file /tmp/receipts_0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c.txt 
+2022-11-08 02:49:14.8889|Deleting an invalid block or its descendant 0xc6ad61dffaaeb70653932b9fa9633fc92cf9cc240bf32dd3c43ee5bb78296c0e 
+2022-11-08 02:49:14.8889|Deleting invalid block 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c at level 4458548 
+2022-11-08 02:49:14.8889|Deleting an invalid block or its descendant 0x265ac73459b7754954f5efa4c6f996f71728f4123503159ed9c01fe1b2636575 
+2022-11-08 02:49:14.8889|Deleting invalid block 0xc6ad61dffaaeb70653932b9fa9633fc92cf9cc240bf32dd3c43ee5bb78296c0e at level 4458549 
+2022-11-08 02:49:14.8889|Deleting an invalid block or its descendant 0xf77c6b21e2ad176d78232b822959ac9e395a6eaaa0b7e118d4a9fa7b5f4327ec 
+2022-11-08 02:49:14.8889|Deleting invalid block 0x265ac73459b7754954f5efa4c6f996f71728f4123503159ed9c01fe1b2636575 at level 4458550 
+2022-11-08 02:49:14.8889|Deleting an invalid block or its descendant 0x0aea03e84392ce63e113fedc5a4f70301a132d5a935465df9501e108cf3bc91d 
+2022-11-08 02:49:14.8889|Deleting invalid block 0xf77c6b21e2ad176d78232b822959ac9e395a6eaaa0b7e118d4a9fa7b5f4327ec at level 4458551 
+2022-11-08 02:49:14.8889|Deleting an invalid block or its descendant 0x3335401bf2a7cb1a370cc0d0b1ff627ceee990ea639e391f421ea09e7588e2ef 
+2022-11-08 02:49:14.8889|Deleting invalid block 0x0aea03e84392ce63e113fedc5a4f70301a132d5a935465df9501e108cf3bc91d at level 4458552 
+2022-11-08 02:49:14.8889|Deleting an invalid block or its descendant 0xae21a28e79e40e19397a05720973af096ee179243030ddbe20e122c0e971798e 
+2022-11-08 02:49:14.8889|Deleting invalid block 0x3335401bf2a7cb1a370cc0d0b1ff627ceee990ea639e391f421ea09e7588e2ef at level 4458553 
+2022-11-08 02:49:14.8889|Deleting an invalid block or its descendant 0x3cce75b64b2e129d2b1bbadc1d7fba2ee25513290ac35a53290fc93235129530 
+2022-11-08 02:49:14.8889|Deleting invalid block 0xae21a28e79e40e19397a05720973af096ee179243030ddbe20e122c0e971798e at level 4458554 
+2022-11-08 02:49:14.8889|Deleting an invalid block or its descendant 0x2148e097d60f7c5d38d4f12a832445bc3390966c8872919da578dec81e54bd9d 
+2022-11-08 02:49:14.8889|Deleting invalid block 0x3cce75b64b2e129d2b1bbadc1d7fba2ee25513290ac35a53290fc93235129530 at level 4458555 
+2022-11-08 02:49:14.8889|Deleting an invalid block or its descendant 0xa9dfa14940545ab716f25862d882cd9a756f4d7bd50353aa8d29f41093727dc4 
+2022-11-08 02:49:14.8889|Deleting invalid block 0x2148e097d60f7c5d38d4f12a832445bc3390966c8872919da578dec81e54bd9d at level 4458556 
+2022-11-08 02:49:14.8889|Deleting an invalid block or its descendant 0x4ba4d313829aaeffbeb8c5f3eeecbf6fc21bae95a2d2b139ccbdb443f9238c75 
+
+[...]
+
+2022-11-08 03:04:45.4806|Deleting invalid block 0xfa599d4160a6403861edd0408f7d9a4639bd7f18f80480cc85d17e6bd5c185bd at level 13145572 
+2022-11-08 03:04:45.4806|Deleting an invalid block or its descendant 0x254fc068a411da7fac1392800ed3a3f8509ea8871e6565896c063ed9a63029aa 
+2022-11-08 03:04:45.4806|Deleting invalid block 0x15c7d96da07b16728f86b76cad6b7c4790d9a7b2a6d6dc9642b83433f35150e0 at level 13145573 
+2022-11-08 03:04:45.4806|Deleting an invalid block or its descendant 0xdd334b5692c0a1d07315ff16803e9eee3fd2173a68ce98b3c231862ab795718d 
+2022-11-08 03:04:45.4806|Deleting invalid block 0x254fc068a411da7fac1392800ed3a3f8509ea8871e6565896c063ed9a63029aa at level 13145574 
+2022-11-08 03:04:45.4806|Deleting invalid block 0xdd334b5692c0a1d07315ff16803e9eee3fd2173a68ce98b3c231862ab795718d at level 13145575 
+2022-11-08 03:04:45.5743|Discovered new block 19240650 03:04:45 (0xe9593f...7305ac), tx count: 0 miner 0xfc44ae5c2f7377b5484ffe7813d83c96c1529848, sent by [Peer|eth66|19240650| 15.188.110.189:39764], with AuRa step 333575337 
+2022-11-08 03:04:45.8177|Syncing previously downloaded blocks from DB (partial offline mode until it finishes) 
+2022-11-08 03:04:46.2941|Sync mode changed from DbLoad to Full 
+2022-11-08 03:04:46.8179|Downloaded 13145575 / 19240469 | current     0.78bps | total   316.42bps 
+2022-11-08 03:04:47.8168|Downloaded 13145575 / 19240469 | current     0.00bps | total   316.42bps 
+2022-11-08 03:04:48.8170|Downloaded 13145575 / 19240469 | current     0.00bps | total   316.41bps 
+2022-11-08 03:04:49.8179|Downloaded 13145575 / 19240469 | current     0.00bps | total   316.40bps 
+2022-11-08 03:04:49.8179|Sync peers - Initialized: 1 | All: 1 | Max: 100
+===[Active][Sleep ][Peer (ProtocolVersion/Head/Host:Port)    ][Transfer Speeds (L/H/B/R/N/S)      ][Client Info (Name/Version/Operating System/Language)     ]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+   [      ][      ][Peer|eth66|19240650|  13.53.195.204:42058][   31|  870|  258|    0|    0|    0][OpenEthereum/v3.3.0-rc.6-stable-5d9ff63-20210804/x86_64-linux-gnu/rustc1.52.1] 
+2022-11-08 03:04:50.5085|Discovered new block 19240651 03:04:50 (0x9d7a0c...c57650), tx count: 0 miner 0x02bbe17b1ee0e35d20d653fc39c8bb086af71d53, sent by [Peer|eth66|19240651|  13.53.195.204:42058], with AuRa step 333575338 
+2022-11-08 03:04:50.8189|Downloaded 13145575 / 19240469 | current     0.00bps | total   316.39bps 
+2022-11-08 03:04:51.8179|Downloaded 13145575 / 19240469 | current     0.00bps | total   316.39bps 
+2022-11-08 03:04:52.8190|Downloaded 13145575 / 19240469 | current     0.00bps | total   316.38bps 
+2022-11-08 03:04:53.8184|Downloaded 13145575 / 19240469 | current     0.00bps | total   316.37bps 
+2022-11-08 03:04:54.8188|Downloaded 13145575 / 19240469 | current     0.00bps | total   316.36bps 
+2022-11-08 03:04:55.5658|Discovered new block 19240652 03:04:55 (0xc13a2b...7b018b), tx count: 0 miner 0xead725076db4b2e57477e0856809729763949b60, sent by [Peer|eth66|19240652|  13.53.195.204:42058], with AuRa step 333575339 
+2022-11-08 03:04:55.8179|Downloaded 13145575 / 19240469 | current     0.00bps | total   316.36bps 
+2022-11-08 03:04:56.8207|Downloaded 13145575 / 19240469 | current     0.00bps | total   316.35bps 
+2022-11-08 03:04:57.8219|Downloaded 13145575 / 19240469 | current     0.00bps | total   316.34bps 
+
+[...]
