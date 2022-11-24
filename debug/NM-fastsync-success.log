@@ -1,0 +1,40 @@
+[...]
+2022-11-24 15:46:02.5510|Branch sync progress (do not extrapolate): 0.39 % of block 19517902
+[...]
+2022-11-24 15:58:47.5308|Branch sync progress (do not extrapolate): 100.00 % of block 19517902
+[...]
+2022-11-24 15:58:47.5308|Saving root 0x65300744a850f853b0440b1bfa4d41d205067ff5a988e4190723a985854e0929 of 19517902 
+2022-11-24 15:58:47.5340|Setting state sync state root to 19517902 0x65300744a850f853b0440b1bfa4d41d205067ff5a988e4190723a985854e0929 
+2022-11-24 15:58:47.9828|Starting the node data sync from the 19518049 (0xe54e1c...9e338a) 0x94266f9af5771b50a1b6a98badc1e0b6d9891baec80fede2892ecc3d1bab6fb9 root 
+2022-11-24 15:58:47.9828|Setting state sync state root to 19518049 0x94266f9af5771b50a1b6a98badc1e0b6d9891baec80fede2892ecc3d1bab6fb9 
+2022-11-24 15:58:47.9828|Now syncing nodes starting from root of block 19518049 
+2022-11-24 15:58:47.9918|Branch sync progress (do not extrapolate): 6.25 % of block 19518049
+[...]
+2022-11-24 15:58:48.7090|Branch sync progress (do not extrapolate): 100.00 % of block 19518049
+[...]
+2022-11-24 15:58:48.7090|Saving root 0x94266f9af5771b50a1b6a98badc1e0b6d9891baec80fede2892ecc3d1bab6fb9 of 19518049 
+2022-11-24 15:58:48.7090|Setting state sync state root to 19518049 0x94266f9af5771b50a1b6a98badc1e0b6d9891baec80fede2892ecc3d1bab6fb9 
+2022-11-24 15:58:48.9808|Changing state StateNodes to Full, FastBodies at processed:0|state:19518049|block:19480679|header:19518049|chain difficulty:6628931559347020585483228984129290929425286375|peer block:19518081|peer total difficulty:6641658800434597525893686121196453924070087822 
+2022-11-24 15:58:48.9808|Sync mode changed from StateNodes to Full, FastBodies 
+2022-11-24 15:58:48.9945|BodiesSyncDispatcher has finished work. 
+2022-11-24 15:58:48.9945|Fast blocks bodies task completed. 
+2022-11-24 15:58:49.0071|Found state for parent: 19518049 (0xe54e1c...9e338a), StateRoot: 0x94266f9af5771b50a1b6a98badc1e0b6d9891baec80fede2892ecc3d1bab6fb9 
+2022-11-24 15:58:49.1493|Current contract validators (8): [0xcea932e508bf87a5cb966379988a6b3a6a8e0fdd, 0xfc44ae5c2f7377b5484ffe7813d83c96c1529848, 0x02bbe17b1ee0e35d20d653fc39c8bb086af71d53, 0xead725076db4b2e57477e0856809729763949b60, 0x88366e924bc4ecc48f3b4b8b844457298810bc28, 0xc5a743abaf6c73ef6b49b2d540ee18df23d3be69, 0x63b4efae8b5d26662ea5700cf2b057e382d4805a, 0xc9ddaf577feb7e036148aaea55d09f76a2d2031a]. 
+2022-11-24 15:58:49.2034|Old Bodies   10000000 / 10000000 | queue     0 | current     0.00bps | total     0.00bps 
+2022-11-24 15:58:49.9824|Changing state Full, FastBodies to WaitingForBlock, FastReceipts at processed:19518081|state:19518081|block:19518081|header:19518081|chain difficulty:6641658800434597525893686121196453924070087822|peer block:19518081|peer total difficulty:6641658800434597525893686121196453924070087822 
+2022-11-24 15:58:49.9824|Sync mode changed from Full, FastBodies to WaitingForBlock, FastReceipts 
+2022-11-24 15:58:50.0022|ReceiptsSyncDispatcher has finished work. 
+2022-11-24 15:58:50.0022|Fast blocks receipts task completed. 
+2022-11-24 15:58:50.0510|Could not find block 0x54dcd90d8232c4e1b3d494838785eaac309e737931c8d5f1e80c761c4483fd98 
+2022-11-24 15:58:50.2018|Old Receipts        0 / 10000000 | queue     0 | current     0.00bps | total -621118012422.36bps 
+2022-11-24 15:58:50.7147|Discovered new block 19518082 15:58:50 (0x36a21f...755308), tx count: 0 miner 0x02bbe17b1ee0e35d20d653fc39c8bb086af71d53, sent by [Peer|eth66|19518082|     3.10.64.47:59594], with AuRa step 333861106 
+2022-11-24 15:58:50.7175|Processed   19518082 |      260ms of   1,727ms, mgasps    0.00 total    0.00, tps    0.00 total    0.00, bps  123.18 total  123.18, recv queue 0, proc queue 0 
+2022-11-24 15:58:50.9824|Changing state WaitingForBlock, FastReceipts to WaitingForBlock at processed:19518082|state:19518082|block:19518082|header:19518082|chain difficulty:6641659140716964446832149584571061355838299276|peer block:19518082|peer total difficulty:6641659140716964446832149584571061355838299276 
+2022-11-24 15:58:50.9824|Sync mode changed from WaitingForBlock, FastReceipts to WaitingForBlock 
+2022-11-24 15:58:55.4945|Discovered new block 19518083 15:58:55 (0xbb477c...83d887), tx count: 0 miner 0xead725076db4b2e57477e0856809729763949b60, sent by [Peer|eth66|19518083|     3.10.64.47:59594], with AuRa step 333861107 
+2022-11-24 15:58:55.4945|Processed   19518083 |        1ms of   4,779ms, mgasps    0.00 total    0.00, tps    0.00 total    0.00, bps  700.34 total  126.33, recv queue 0, proc queue 0 
+2022-11-24 15:59:00.6616|Discovered new block 19518084 15:59:00 (0x962f45...4e8831), tx count: 0 miner 0x88366e924bc4ecc48f3b4b8b844457298810bc28, sent by [Peer|eth66|19518084|     3.10.64.47:57752], with AuRa step 333861108 
+2022-11-24 15:59:00.6616|Processed   19518084 |        1ms of   5,168ms, mgasps    0.00 total    0.00, tps    0.00 total    0.00, bps  748.06 total  129.50, recv queue 0, proc queue 0 
+2022-11-24 15:59:02.2020|Peers | with known best block: 3 | all: 3 | 
+2022-11-24 15:59:02.2020|Sync peers 3(3)/100
+[...]
