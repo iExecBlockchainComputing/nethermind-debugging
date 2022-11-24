@@ -18,7 +18,8 @@ services:
       # SYNC
       - 30303:30303
     environment:
-      - NETHERMIND_INITCONFIG_AUTODUMP=All
+      #- NETHERMIND_INITCONFIG_AUTODUMP=All
+      - NETHERMIND_INITCONFIG_AUTODUMP=Parity
       # EthStats
       - NETHERMIND_ETHSTATSCONFIG_ENABLED=false
       - NETHERMIND_ETHSTATSCONFIG_NAME=nethermind-fullnode
