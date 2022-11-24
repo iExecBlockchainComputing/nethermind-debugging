@@ -1,0 +1,120 @@
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.8855|Grafana / Prometheus metrics are disabled in configuration 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.8925|Starting Merge block producer & sealer 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.8967|Current contract validators (5): [0xcea932e508bf87a5cb966379988a6b3a6a8e0fdd, 0xfc44ae5c2f7377b5484ffe7813d83c96c1529848, 0x02bbe17b1ee0e35d20d653fc39c8bb086af71d53, 0xead725076db4b2e57477e0856809729763949b60, 0x88366e924bc4ecc48f3b4b8b844457298810bc28]. 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9452|Rerunning block after reorg or pruning: 4458485 (0x7c7fe8f98212660dabab44e70fa0f41cf8bce5084070d965f76be46d49d52540) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9452|Rerunning block after reorg or pruning: 4458486 (0x41bf2379ff4fdedaf6bd1450ea38e246e558cc304fc6595c328e8551c68ef1dc) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9550|Rerunning block after reorg or pruning: 4458487 (0xffc9f31853e2b940aced5ea702f5d48719f4526140eaab424ea4d8393aaf8011) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9550|Rerunning block after reorg or pruning: 4458488 (0x74e585bdc2e1997c945ff43b70a95f8585d44fc512392ffebf0ca2a41d615a6d) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9587|Rerunning block after reorg or pruning: 4458489 (0xe71b9a5d84d213d9dfbfd1f2f2c423363b84b982c67926f8bee7b001c927814b) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9587|Rerunning block after reorg or pruning: 4458490 (0x2d01fc70868c2bfede15295bcca8bc6c465caa3a605a290b146ef9500fa97d49) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9587|Rerunning block after reorg or pruning: 4458491 (0x96716f7e9e9119ea15819741fd83bfe336a2e16364a93e17f7308c7dec021f2e) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9621|Rerunning block after reorg or pruning: 4458492 (0x512e11002d11d5b02ed28b00b78752d19c6618aa0b9a21fb544477b39cb98245) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9621|Rerunning block after reorg or pruning: 4458493 (0x6a38406ff1be33f62f1fe0500194260492e6ec07737c17985c04f52a394f728b) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9621|Rerunning block after reorg or pruning: 4458494 (0x36a196b326d4cdfb3c7842dbf0c1ca2ecc439ee5e890a4d6f8e69af67c6630b9) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9621|Rerunning block after reorg or pruning: 4458495 (0x2bc6d398f4264503c9763bab3d0eb134bce7ba4053828a6bbe5b4c75a2e92af7) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9656|Rerunning block after reorg or pruning: 4458496 (0x6d26389f3f6eb0d1bf1c5d4338c1d6b3424a8521eaf1f9e21ae383efae10f66d) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9656|Rerunning block after reorg or pruning: 4458497 (0xac27777fe49d806d6aef005f6cf5bf017bcffbaad607cb7ebb42229637978b09) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9656|Rerunning block after reorg or pruning: 4458498 (0x5f31d6348589b10b8e51b1a6e7fc8eb2de964ab356261c4fbc8fcc99b672bf88) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9656|Rerunning block after reorg or pruning: 4458499 (0x3c573364bc318f1bbd586363341ac1854c8f259e3320b8bc3551f3ff70c6c247) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9694|Rerunning block after reorg or pruning: 4458500 (0x3825604f59cebf64953193eb919b80401888bc1ed7a35663440fab09e28b289a) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9694|Rerunning block after reorg or pruning: 4458501 (0xee970cf87577dbee087da86aebb8251b48d068dd7ef2ca757960c8e6f65e75ec) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9694|Rerunning block after reorg or pruning: 4458502 (0x2d2c4a246a7121433f96c6f316a3ec9806286f44d28215580d268f0fc4a311cf) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9694|Rerunning block after reorg or pruning: 4458503 (0x8f234a220510a0d32d3caa047f313b10e45af9050b6e75ba134f42ea12d4dfe4) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9734|Rerunning block after reorg or pruning: 4458504 (0xf8855440139a648cc4fa0ccee2f1baf1d8f33c1015718624f9b80976c4ea1d58) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9734|Rerunning block after reorg or pruning: 4458505 (0x95f8eb7bc06c23f6bb1d8d22a631547fd05d278da27e2c39c3e483f07dfeef66) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9734|Rerunning block after reorg or pruning: 4458506 (0x2daa2aafed5bacb2d5ed0c20751e45fe4b150fc61c3b2eeca24453ec49a4a2ed) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9734|Rerunning block after reorg or pruning: 4458507 (0x4a8aa6af09ccfa0d8b11513c0b975ccc69d82347d9faab18fdba4ecd92053bb5) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9776|Rerunning block after reorg or pruning: 4458508 (0x312952f62c9867055eface8ec0bd82b03067feb06e5a6a0a9ba23ab94ded1f02) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9776|Rerunning block after reorg or pruning: 4458509 (0x900388d048aa1801df58543c47868583fcb4f3f69840093ed06721aad5c6788d) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9776|Rerunning block after reorg or pruning: 4458510 (0x53c10f1d68f68995ca0bd3d0efa384189414cecaa99d3d36b011d8c89142c622) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9776|Rerunning block after reorg or pruning: 4458511 (0x0c62bca6334c768d6ec6b5440e422872bfac09d9155c116ee89e23d674ef32ae) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9812|Rerunning block after reorg or pruning: 4458512 (0x515a0a1d294ccc53024c0b34aafbbb157c6d9d1b3a2694bdd41ed34071a1c3aa) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9812|Rerunning block after reorg or pruning: 4458513 (0x087348dc56d748b981ccb439f56b06dfb178a2efe3030429a9bde537056d5352) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9812|Rerunning block after reorg or pruning: 4458514 (0x6fa21cb5d2c72938829a8d1d8b09d82fc9ec9219b2189f373297e26f906633a4) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9812|Rerunning block after reorg or pruning: 4458515 (0x5d75b939e5847f8beb926f930603a6cd8500c7910bc1d6c096d10a10d02848e5) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9812|Rerunning block after reorg or pruning: 4458516 (0x7447030b3deaae36c15532e8edd995f7296677f9cab77d52157dc8cace15b0dc) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9860|Rerunning block after reorg or pruning: 4458517 (0x1830a74e114d9b5271b6bcc04ed0a5af193c5031a9bcf95f5515bfcf3f27f078) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9860|Rerunning block after reorg or pruning: 4458518 (0x9cad589cf8134002c05f9f68d3b533a399ae23be81770cf749ebca25eacc8cc5) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9860|Rerunning block after reorg or pruning: 4458519 (0x39a10fb7e278249dffadb9ec497e014ac5168250236e1557468732fb0ad75b71) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9860|Rerunning block after reorg or pruning: 4458520 (0x460bc3d561ffcc1009aab37c1874d1080e97efa039db0b06d4c85ab0ef510626) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9860|Rerunning block after reorg or pruning: 4458521 (0x9e1209b56dc221987dffc913846811947e842d2d12a426044839f0d8ecbaa341) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9898|Rerunning block after reorg or pruning: 4458522 (0x36a3b669ff20e86acb7c6f482c254d718b5e4f65362eacef5e8f02ca4de7f083) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9898|Rerunning block after reorg or pruning: 4458523 (0x8cbace7364ef4b29066dbc37f3b29bb759911794148945b466c9c170813178f7) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9898|Rerunning block after reorg or pruning: 4458524 (0x1f95d4f888ab7eb9b4e2eef860af6489df7041b7bd5922929eac44a4268ef955) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9898|Rerunning block after reorg or pruning: 4458525 (0x1b56e0b8f975a92392a4aa230fe6c215677f16777693aa89e81c3e35d0af40f2) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9898|Rerunning block after reorg or pruning: 4458526 (0x3299ea306bd0c8f759ac75c0c2465870bb5f8e607a1da4f13e2724c8e49d67ff) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9933|Rerunning block after reorg or pruning: 4458527 (0x9eaa0a691e312645a9e7803c8c99d1aef0afc734d6a58e3f1e203facb806f58f) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9933|Rerunning block after reorg or pruning: 4458528 (0x2787fd5541762cc114f95a5cf86dd6070d28b6368468e629cd83f7df323a0e6c) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9933|Rerunning block after reorg or pruning: 4458529 (0x1f9207d0108690a82fb5a8cf44be3867122ece7fd3d95725a3793822e3f0cb27) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9933|Rerunning block after reorg or pruning: 4458530 (0xd0ec75dcc565e327c3f13624d149e7a9ebc92907ab14a206cfd9f85ef6f3c782) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9933|Rerunning block after reorg or pruning: 4458531 (0x30d2da60e2a4d07c524689d70d76d335b89be8e248bb097a7113c10ae68af2a5) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9979|Rerunning block after reorg or pruning: 4458532 (0x5354d24c5c7602763d952f8c8967e8c7b6211df44b8fa0f380768e93a66f7a3a) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9979|Rerunning block after reorg or pruning: 4458533 (0x0fc2be74104b929887cfdfd565dc3c3339488160190b3635b2eda5c1ff40609a) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9979|Rerunning block after reorg or pruning: 4458534 (0x466c03ebbfe1957f92da0a10d1321ca4b342559a30b405dee52618e3f750a795) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:09.9979|Rerunning block after reorg or pruning: 4458535 (0xb8d82ab1aa1afca1e7a8659294c69854c3613bfccc491f83c9acb5a3d9645470) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0018|Rerunning block after reorg or pruning: 4458536 (0x1108ab3ac93a6a6d3335f11c703df37e2945a2caf1e95f0d9b9fa22ae2e47a6b) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0018|Rerunning block after reorg or pruning: 4458537 (0x766c667eb83fa355bfb5c41ee8c2b626fe5937b718a8fb3cdf98aaef54cf93bc) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0018|Rerunning block after reorg or pruning: 4458538 (0x771adfdf5ccafaa45df57eb342db72899a04e793d6a8f7dd88b5b24cea6749a5) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0018|Rerunning block after reorg or pruning: 4458539 (0x85d2140cba13206c36272ed2798f813fc07741d3c85aa3792fa1516b119eab7e) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0018|Rerunning block after reorg or pruning: 4458540 (0x1df2726953b491f6928ecd49bec6cf9d562e5fbf34e09845532cf8f016d1c308) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0051|Rerunning block after reorg or pruning: 4458541 (0xde91954f08498b8fe81ac5a9cdb7980e96200180dfdc7b11b8c12afdb1b13a47) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0051|Rerunning block after reorg or pruning: 4458542 (0x76dc1fc2c4ef9dc3e3588410d736b28c5069bc199b086feb7c18972cec16c6ff) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0051|Rerunning block after reorg or pruning: 4458543 (0xadb27ac6732353b82b76da2bb67373e93754bcd1a748db049667cafccdcba413) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0051|Rerunning block after reorg or pruning: 4458544 (0x626573a3c1fd6c6993d1afab0855b21b2e6acbc0b6f49b26963dc9c93cbe87e8) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0051|Rerunning block after reorg or pruning: 4458545 (0xeb75bf286b12542bfacdb18cceb8142af56e1085da26c615c76e0c40f8d73ab8) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0097|Rerunning block after reorg or pruning: 4458546 (0x7d7d24d6f7f65de27c2e24fe5b56e5d59ba254559afaaa3f473466fbb5a0912a) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.0097|Rerunning block after reorg or pruning: 4458547 (0xc373383ec81c680e7f1b6cd3401f5230406e92c3e88ecfc69306c2412813edab) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.3926|Discovered new block 19518571 16:41:10 (0x1856cd...1a92a0), tx count: 0 miner 0x63b4efae8b5d26662ea5700cf2b057e382d4805a, sent by [Peer|eth66|19518571|     3.10.64.47:30303], with AuRa step 333861614 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.7038|Peers | with known best block: 5 | all: 5 | 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.7038|Waiting for peers... 1s 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.7099|Sync peers - Initialized: 5 | All: 5 | Max: 100
+nethermind-fullnode-dump  | ===[Active][Sleep ][Peer (ProtocolVersion/Head/Host:Port)    ][Transfer Speeds (L/H/B/R/N/S)      ][Client Info (Name/Version/Operating System/Language)     ]
+nethermind-fullnode-dump  | --------------------------------------------------------------------------------------------------------------------------------------------------------------
+nethermind-fullnode-dump  |    [      ][      ][Peer|eth66|19518571|  13.53.195.204:30303][    0|   13|    0|    0|    0|    0][OpenEthereum/v3.3.3-stable-6e06824c2-20220113/x86_64-linux-gnu/rustc1.48.0]
+nethermind-fullnode-dump  |    [      ][      ][Peer|eth66|19518571|   13.53.59.100:30303][    0|   12|    0|    0|    0|    0][OpenEthereum/v3.3.3-stable-6e06824c2-20220113/x86_64-linux-gnu/rustc1.48.0]
+nethermind-fullnode-dump  |    [      ][      ][Peer|eth66|19518571| 15.188.110.189:30303][    0|   21|    0|    0|    0|    0][OpenEthereum/v3.3.3-stable-6e06824c2-20220113/x86_64-linux-gnu/rustc1.48.0]
+nethermind-fullnode-dump  |    [      ][      ][Peer|eth66|19518571|     3.10.64.47:30303][    0|   13|    0|    0|    0|    0][OpenEthereum/v3.3.3-stable-6e06824c2-20220113/x86_64-linux-gnu/rustc1.48.0]
+nethermind-fullnode-dump  |    [      ][      ][Peer|eth66| 4458547|  13.39.106.140:30303][    0|    0|    0|    0|    0|    0][Nethermind/v1.14.2-0-08354f9fa-20221108/X64-Linux/6.0.9] 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9630|Processed block 4458548 (0xe33ed5...f820c1) is not valid 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9630|  hash 0xe33ed5b6b10fd3865391d96677fe3961991dfe7b1e74b6fd27761bfa48f820c1 != stated hash 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9630|  gas used 491486 != stated gas used 495686 (-4200 difference) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9630|  receipts root 0x097024a815877f9318b47941108cc2ac7001410c8428280607748a035473f040 != stated receipts root 0x3648ac6cc05a0f719f027165393c102fe9dc47cd2c183233ad44d83b05acd5aa 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9630|Processed block is not valid 4458548 (0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9630|Suggested block TD: 1517165266470616344397701929215695295328003662, Suggested block IsPostMerge False, Block TD: 1517165266470616344397701929215695295328003662, Block IsPostMerge False 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9719|Processed block 4458548 (0xe33ed5...f820c1) is not valid 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9719|  hash 0xe33ed5b6b10fd3865391d96677fe3961991dfe7b1e74b6fd27761bfa48f820c1 != stated hash 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9719|  gas used 491486 != stated gas used 495686 (-4200 difference) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9719|  receipts root 0x097024a815877f9318b47941108cc2ac7001410c8428280607748a035473f040 != stated receipts root 0x3648ac6cc05a0f719f027165393c102fe9dc47cd2c183233ad44d83b05acd5aa 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9719|Processed block is not valid 4458548 (0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9719|Suggested block TD: 1517165266470616344397701929215695295328003662, Suggested block IsPostMerge False, Block TD: 1517165266470616344397701929215695295328003662, Block IsPostMerge False 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9829|Created a Receipts trace of block 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c in file /tmp/receipts_0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c.txt 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9976|Processed block 4458548 (0xe33ed5...f820c1) is not valid 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9976|  hash 0xe33ed5b6b10fd3865391d96677fe3961991dfe7b1e74b6fd27761bfa48f820c1 != stated hash 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9976|  gas used 491486 != stated gas used 495686 (-4200 difference) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9976|  receipts root 0x097024a815877f9318b47941108cc2ac7001410c8428280607748a035473f040 != stated receipts root 0x3648ac6cc05a0f719f027165393c102fe9dc47cd2c183233ad44d83b05acd5aa 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9976|Processed block is not valid 4458548 (0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:10.9976|Suggested block TD: 1517165266470616344397701929215695295328003662, Suggested block IsPostMerge False, Block TD: 1517165266470616344397701929215695295328003662, Block IsPostMerge False 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.0087|Created a Parity-style trace of block 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c in file /tmp/parityStyle_0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c.txt 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.2237|Processed block 4458548 (0xe33ed5...f820c1) is not valid 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.2237|  hash 0xe33ed5b6b10fd3865391d96677fe3961991dfe7b1e74b6fd27761bfa48f820c1 != stated hash 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.2237|  gas used 491486 != stated gas used 495686 (-4200 difference) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.2237|  receipts root 0x097024a815877f9318b47941108cc2ac7001410c8428280607748a035473f040 != stated receipts root 0x3648ac6cc05a0f719f027165393c102fe9dc47cd2c183233ad44d83b05acd5aa 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.2237|Processed block is not valid 4458548 (0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c) 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.2237|Suggested block TD: 1517165266470616344397701929215695295328003662, Suggested block IsPostMerge False, Block TD: 1517165266470616344397701929215695295328003662, Block IsPostMerge False 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.7110|Downloaded  4459312 / 19518571 | current     0.00bps | total   432.97bps 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8769|Created a Geth-style trace of block 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c in file /tmp/gethStyle_0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c.txt 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting an invalid block or its descendant 0xc6ad61dffaaeb70653932b9fa9633fc92cf9cc240bf32dd3c43ee5bb78296c0e 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting invalid block 0x5ce3a0e578a1fe2c9bec189de3d544a1c494deb062fce409c1cf167312d50e7c at level 4458548 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting an invalid block or its descendant 0x265ac73459b7754954f5efa4c6f996f71728f4123503159ed9c01fe1b2636575 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting invalid block 0xc6ad61dffaaeb70653932b9fa9633fc92cf9cc240bf32dd3c43ee5bb78296c0e at level 4458549 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting an invalid block or its descendant 0xf77c6b21e2ad176d78232b822959ac9e395a6eaaa0b7e118d4a9fa7b5f4327ec 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting invalid block 0x265ac73459b7754954f5efa4c6f996f71728f4123503159ed9c01fe1b2636575 at level 4458550 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting an invalid block or its descendant 0x0aea03e84392ce63e113fedc5a4f70301a132d5a935465df9501e108cf3bc91d 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting invalid block 0xf77c6b21e2ad176d78232b822959ac9e395a6eaaa0b7e118d4a9fa7b5f4327ec at level 4458551 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting an invalid block or its descendant 0x3335401bf2a7cb1a370cc0d0b1ff627ceee990ea639e391f421ea09e7588e2ef 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting invalid block 0x0aea03e84392ce63e113fedc5a4f70301a132d5a935465df9501e108cf3bc91d at level 4458552 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting an invalid block or its descendant 0xae21a28e79e40e19397a05720973af096ee179243030ddbe20e122c0e971798e 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting invalid block 0x3335401bf2a7cb1a370cc0d0b1ff627ceee990ea639e391f421ea09e7588e2ef at level 4458553 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting an invalid block or its descendant 0x3cce75b64b2e129d2b1bbadc1d7fba2ee25513290ac35a53290fc93235129530 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting invalid block 0xae21a28e79e40e19397a05720973af096ee179243030ddbe20e122c0e971798e at level 4458554 
+nethermind-fullnode-dump  | 2022-11-24 16:41:11.8878|Deleting an invalid block or its descendant 0x2148e097d60f7c5d38d4f12a832445bc3390966c8872919da578dec81e54bd9d 
