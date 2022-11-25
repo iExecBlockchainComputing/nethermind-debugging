@@ -1,0 +1,18 @@
+version: '3'
+
+volumes:
+  bellecour-oe-fullnode-volume:
+
+services:
+  bellecour-oe-fullnode:
+    image: bellecour-oe-fullnode
+    build:
+      context: .
+    container_name: bellecour-oe-fullnode
+    volumes:
+      - bellecour-oe-fullnode-volume:/iexec/fullnode/
+    ports:
+      - 30303:30303 # sync
+      - 8545:8545 # rpc api
+      - 8546:8546 # websockets
+    restart: unless-stopped

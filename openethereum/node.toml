@@ -1,0 +1,21 @@
+[parity]
+chain = "spec.json"
+base_path = "chain-data"
+
+[network]
+reserved_peers="bootnodes.txt"
+port = 30303
+max_peers = 100
+snapshot_peers = 25
+
+[rpc]
+apis = ["web3","eth","net"]
+interface = "all"
+cors=["all"]
+
+[websockets]
+disable = false
+port = 8546
+interface = "all"
+apis = ["web3","eth","net"]
+# apis = ["web3", "eth", "pubsub", "net", "parity", "parity_pubsub", "traces", "rpc"]
